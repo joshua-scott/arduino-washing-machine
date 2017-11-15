@@ -22,7 +22,7 @@ The routine of the washing machine goes like this:
 8. Led is blinking when the washing program is finished.
 9. Washing machine can be turned OFF
 
- ----- END TASK INSTRUCTIONS ----- */
+*/
 
 /* ----- OUTPUT MACROS ----- */
 
